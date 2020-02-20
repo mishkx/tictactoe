@@ -1,5 +1,5 @@
 ## Попробовать
-[http://matchdev.tk:88/tictactoe](http://matchdev.tk:88/tictactoe)
+[http://matchdev.tk:88/tictactoe/index.html](http://matchdev.tk:88/tictactoe/index.html)
 
 ## Настройка
 `cp .env.example .env`
